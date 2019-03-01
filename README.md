@@ -1,2 +1,2 @@
 # todo_api
-a simple todo list API
+A simple todo list API
